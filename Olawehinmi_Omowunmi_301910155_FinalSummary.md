@@ -4,7 +4,7 @@
 
 ## Case study
 
-My case study is Library management system. I designed the database for librarians manage the catalog and record checkouts and returns. and members borrow and return book copies., with separate tables named book, member and loan. It supports these operations: register a lendable book copy with a unique copy code; register a member with a unique email address; check out an available copy to a member; record a return and find overdue active loans.
+I chose the Library management system case study. I designed the database for librarians manage the catalog and record checkouts and returns. and members borrow and return book copies., with separate tables named book, member and loan. It supports these operations: register a lendable book copy with a unique copy code; register a member with a unique email address; check out an available copy to a member; record a return and find overdue active loans.
 
 ## Portfolio 1: Database Design and Modelling
 
